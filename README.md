@@ -20,7 +20,7 @@ Welcome to the **SQL Document & URL Chatbot**! This project is an intelligent, c
 This project is built using a modern, fast, and open-source AI stack:
 
 *   **UI Framework**: Streamlit
-*   **Orchestration**: LangGraph & LangChain
+*   **Orchestration**: RAG, LangGraph & LangChain
 *   **Vector Store**: FAISS (Local CPU)
 *   **Embeddings**: HuggingFace (`sentence-transformers`)
 *   **LLM Provider**: OpenRouter (using free open-source models)
