@@ -42,10 +42,4 @@ No black-box answers here! Every time the bot answers a SQL question, you can cl
 
 ![Source Documents Display](9.png)
 
----
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to add support for more document types or different SQL dialects.
-
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
+THANK YOU
