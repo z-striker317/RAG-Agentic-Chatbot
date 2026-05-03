@@ -1,4 +1,4 @@
-# 🤖 SQL Document & URL Chatbot 🚀
+# 🤖 SQL Document & URL Agentic Chatbot 🚀
 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
