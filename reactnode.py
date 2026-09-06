@@ -1,7 +1,5 @@
 # LangGraph nodes for RAG workflow + React Agent inside generate_content
 
-import uuid
-_ = uuid
 from typing import List, Optional
 from src.state.rag_state import RAGState
 from langchain_core.documents import Document
@@ -28,7 +26,7 @@ class RAGNodes:
             question=state.question,
             retrieved_docs=docs
         )
-    # Build Tools
+        
     # Build Tools
     def _build_tools(self):
         """Build retriever + wikipedia tools"""
