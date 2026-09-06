@@ -18,9 +18,6 @@ sys.path.append(str(Path(__file__).parent))
 # 3. Now it is safe to import Config
 from src.config.config import Config
 from src.document_ingestion.document_processor import DocumentProcessor
-
-from src.config.config import Config
-from src.document_ingestion.document_processor import DocumentProcessor
 from src.vectorstore.vectorstore import VectorStore
 from src.graph_builder.graph_builder import GraphBuilder
 
